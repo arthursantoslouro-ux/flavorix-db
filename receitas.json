@@ -2,426 +2,142 @@
 {
 "nome": "Lasanha de carne",
 "descricao": "Clássica e saborosa",
-"ingredientes": [
-"500g de carne moída",
-"1 pacote de massa de lasanha",
-"2 xícaras de molho de tomate",
-"200g de queijo mussarela",
-"1 cebola picada",
-"2 dentes de alho",
-"Sal a gosto"
-],
-"modo": "Refogue alho e cebola, adicione carne. Coloque molho. Monte camadas com massa e queijo. Asse por 30 minutos."
+"imagem": "https://source.unsplash.com/400x300/?lasagna",
+"ingredientes": ["500g de carne moída","Massa de lasanha","Molho de tomate","Queijo","Cebola","Alho"],
+"modo": "Refogue carne, monte camadas e asse."
 },
-
 {
 "nome": "Strogonoff de frango",
 "descricao": "Cremoso e fácil",
-"ingredientes": [
-"500g de frango em cubos",
-"1 caixa de creme de leite",
-"2 colheres de ketchup",
-"1 colher de mostarda",
-"1 cebola",
-"Sal a gosto"
-],
-"modo": "Refogue o frango com cebola. Adicione ketchup e mostarda. Finalize com creme de leite."
+"imagem": "https://source.unsplash.com/400x300/?strogonoff",
+"ingredientes": ["Frango","Creme de leite","Ketchup","Mostarda"],
+"modo": "Refogue e finalize com creme."
 },
-
 {
-"nome": "Macarrão ao alho e óleo",
-"descricao": "Simples e sabor intenso",
-"ingredientes": [
-"250g de macarrão",
-"4 dentes de alho",
-"3 colheres de azeite",
-"Sal a gosto"
-],
-"modo": "Cozinhe o macarrão. Doure o alho no azeite e misture tudo."
+"nome": "Macarrão ao alho",
+"descricao": "Simples e saboroso",
+"imagem": "https://source.unsplash.com/400x300/?pasta",
+"ingredientes": ["Macarrão","Alho","Azeite"],
+"modo": "Cozinhe e misture com alho dourado."
 },
-
-{
-"nome": "Panqueca de carne",
-"descricao": "Recheio suculento",
-"ingredientes": [
-"1 xícara de leite",
-"1 ovo",
-"1 xícara de farinha",
-"300g de carne moída",
-"Molho de tomate"
-],
-"modo": "Bata massa, faça discos. Recheie com carne e cubra com molho."
-},
-
-{
-"nome": "Arroz carreteiro",
-"descricao": "Prato tradicional",
-"ingredientes": [
-"2 xícaras de arroz",
-"300g de carne seca",
-"1 cebola",
-"Alho",
-"Sal"
-],
-"modo": "Refogue tudo, adicione arroz e água. Cozinhe até secar."
-},
-
-{
-"nome": "Feijoada simples",
-"descricao": "Tradicional brasileira",
-"ingredientes": [
-"500g de feijão preto",
-"300g de carne de porco",
-"1 linguiça",
-"Alho e cebola"
-],
-"modo": "Cozinhe o feijão com carnes até ficar macio e encorpado."
-},
-
-{
-"nome": "Frango assado",
-"descricao": "Crocrante por fora",
-"ingredientes": [
-"1 frango inteiro",
-"Alho",
-"Sal",
-"Páprica",
-"Azeite"
-],
-"modo": "Tempere o frango e asse por 1 hora a 200°C."
-},
-
-{
-"nome": "Batata gratinada",
-"descricao": "Cremosa e deliciosa",
-"ingredientes": [
-"4 batatas",
-"1 caixa de creme de leite",
-"Queijo",
-"Sal"
-],
-"modo": "Monte camadas e leve ao forno até dourar."
-},
-
-{
-"nome": "Risoto de queijo",
-"descricao": "Cremoso e elegante",
-"ingredientes": [
-"1 xícara de arroz arbóreo",
-"Caldo de legumes",
-"Queijo parmesão",
-"Manteiga"
-],
-"modo": "Adicione caldo aos poucos mexendo até ficar cremoso."
-},
-
-{
-"nome": "Carne de panela",
-"descricao": "Bem macia",
-"ingredientes": [
-"500g de carne",
-"Batata",
-"Cenoura",
-"Alho",
-"Sal"
-],
-"modo": "Cozinhe tudo na panela de pressão por 30 minutos."
-},
-
-{
-"nome": "Torta de frango",
-"descricao": "Recheio cremoso",
-"ingredientes": [
-"2 xícaras de farinha",
-"1 xícara de leite",
-"Frango desfiado",
-"Requeijão"
-],
-"modo": "Misture massa, coloque recheio e asse."
-},
-
-{
-"nome": "Escondidinho de carne",
-"descricao": "Com purê de batata",
-"ingredientes": [
-"Carne moída",
-"Batata",
-"Queijo",
-"Manteiga"
-],
-"modo": "Monte camadas de purê e carne, leve ao forno."
-},
-
-{
-"nome": "Yakisoba",
-"descricao": "Estilo oriental",
-"ingredientes": [
-"Macarrão",
-"Frango",
-"Legumes",
-"Molho shoyu"
-],
-"modo": "Refogue tudo e misture com o macarrão."
-},
-
 {
 "nome": "Pizza caseira",
-"descricao": "Massa leve",
-"ingredientes": [
-"Farinha",
-"Fermento",
-"Molho de tomate",
-"Queijo"
-],
-"modo": "Prepare a massa, adicione recheio e asse."
+"descricao": "Deliciosa",
+"imagem": "https://source.unsplash.com/400x300/?pizza",
+"ingredientes": ["Farinha","Molho","Queijo"],
+"modo": "Monte e asse."
 },
-
 {
-"nome": "Hambúrguer caseiro",
+"nome": "Hambúrguer",
 "descricao": "Artesanal",
-"ingredientes": [
-"Carne moída",
-"Sal",
-"Pimenta",
-"Pão",
-"Queijo"
-],
-"modo": "Modele, grelhe e monte o hambúrguer."
+"imagem": "https://source.unsplash.com/400x300/?burger",
+"ingredientes": ["Carne","Pão","Queijo"],
+"modo": "Grelhe e monte."
 },
-
 {
 "nome": "Coxinha",
-"descricao": "Salgado famoso",
-"ingredientes": [
-"Frango",
-"Farinha",
-"Caldo",
-"Óleo"
-],
-"modo": "Faça massa, recheie e frite."
-},
-
-{
-"nome": "Quibe assado",
-"descricao": "Leve e saboroso",
-"ingredientes": [
-"Trigo para quibe",
-"Carne moída",
-"Hortelã"
-],
-"modo": "Misture tudo e asse."
-},
-
-{
-"nome": "Moqueca de peixe",
-"descricao": "Prato brasileiro",
-"ingredientes": [
-"Peixe",
-"Leite de coco",
-"Pimentão",
-"Tomate"
-],
-"modo": "Cozinhe tudo lentamente até encorpar."
-},
-
-{
-"nome": "Caldo de mandioca",
-"descricao": "Perfeito pra frio",
-"ingredientes": [
-"Mandioca",
-"Carne",
-"Alho"
-],
-"modo": "Cozinhe e bata até virar creme."
-},
-
-{
-"nome": "Bife acebolado",
-"descricao": "Clássico",
-"ingredientes": [
-"Bife",
-"Cebola",
-"Sal"
-],
-"modo": "Frite o bife e adicione cebola."
-},
-
-{
-"nome": "Purê de batata",
-"descricao": "Cremoso",
-"ingredientes": [
-"Batata",
-"Leite",
-"Manteiga"
-],
-"modo": "Amasse e misture tudo."
-},
-
-{
-"nome": "Frango xadrez",
-"descricao": "Com legumes",
-"ingredientes": [
-"Frango",
-"Pimentão",
-"Molho shoyu"
-],
-"modo": "Refogue e finalize com molho."
-},
-
-{
-"nome": "Espaguete bolonhesa",
-"descricao": "Molho clássico",
-"ingredientes": [
-"Macarrão",
-"Carne moída",
-"Molho de tomate"
-],
-"modo": "Cozinhe macarrão e adicione molho."
-},
-
-{
-"nome": "Sopa de legumes",
-"descricao": "Saudável",
-"ingredientes": [
-"Cenoura",
-"Batata",
-"Abobrinha"
-],
-"modo": "Cozinhe tudo até ficar macio."
-},
-
-{
-"nome": "Omelete recheado",
-"descricao": "Completo",
-"ingredientes": [
-"Ovos",
-"Queijo",
-"Presunto"
-],
-"modo": "Bata ovos, adicione recheio e frite."
-}
-,
-{
-"nome": "Bolo de chocolate fofinho",
-"descricao": "Macio e molhadinho",
-"ingredientes": [
-"2 xícaras de farinha de trigo",
-"1 xícara de açúcar",
-"1 xícara de leite",
-"1/2 xícara de óleo",
-"1 xícara de chocolate em pó",
-"3 ovos",
-"1 colher de fermento"
-],
-"modo": "Misture tudo, coloque em forma untada e asse por 40 minutos a 180°C."
-},
-
-{
-"nome": "Brigadeiro gourmet",
-"descricao": "Cremoso e intenso",
-"ingredientes": [
-"1 lata de leite condensado",
-"1 colher de manteiga",
-"100g de chocolate meio amargo",
-"Chocolate granulado"
-],
-"modo": "Cozinhe tudo até desgrudar da panela, deixe esfriar e enrole."
-},
-
-{
-"nome": "Mousse de maracujá",
-"descricao": "Leve e refrescante",
-"ingredientes": [
-"1 lata de leite condensado",
-"1 caixa de creme de leite",
-"1/2 xícara de suco de maracujá"
-],
-"modo": "Bata tudo no liquidificador e leve à geladeira por 3 horas."
-},
-
-{
-"nome": "Pudim de leite",
 "descricao": "Clássico brasileiro",
-"ingredientes": [
-"1 lata de leite condensado",
-"2 latas de leite",
-"3 ovos",
-"1 xícara de açúcar"
-],
-"modo": "Faça o caramelo, bata o restante e asse em banho-maria por 1 hora."
+"imagem": "https://source.unsplash.com/400x300/?brazilian-snack",
+"ingredientes": ["Frango","Farinha"],
+"modo": "Recheie e frite."
+},
+{
+"nome": "Bolo de chocolate",
+"descricao": "Fofinho",
+"imagem": "https://source.unsplash.com/400x300/?chocolate-cake",
+"ingredientes": ["Farinha","Chocolate","Ovos"],
+"modo": "Misture e asse."
+},
+{
+"nome": "Brigadeiro",
+"descricao": "Doce brasileiro",
+"imagem": "https://source.unsplash.com/400x300/?brigadeiro",
+"ingredientes": ["Leite condensado","Chocolate"],
+"modo": "Cozinhe e enrole."
+},
+{
+"nome": "Pudim",
+"descricao": "Clássico",
+"imagem": "https://source.unsplash.com/400x300/?pudding",
+"ingredientes": ["Leite condensado","Ovos"],
+"modo": "Asse em banho maria."
+},
+{
+"nome": "Brownie",
+"descricao": "Crocante",
+"imagem": "https://source.unsplash.com/400x300/?brownie",
+"ingredientes": ["Chocolate","Manteiga"],
+"modo": "Asse até firme."
 },
 
 {
-"nome": "Brownie de chocolate",
-"descricao": "Crocante por fora e macio por dentro",
-"ingredientes": [
-"200g de chocolate meio amargo",
-"150g de manteiga",
-"1 xícara de açúcar",
-"3 ovos",
-"1/2 xícara de farinha"
-],
-"modo": "Derreta chocolate com manteiga, misture tudo e asse por 25 minutos."
+"nome": "Panqueca",
+"descricao": "Macia",
+"imagem": "https://source.unsplash.com/400x300/?pancake",
+"ingredientes": ["Farinha","Leite","Ovo"],
+"modo": "Misture e frite."
 },
-
+{
+"nome": "Frango assado",
+"descricao": "Suculento",
+"imagem": "https://source.unsplash.com/400x300/?roast-chicken",
+"ingredientes": ["Frango","Temperos"],
+"modo": "Asse até dourar."
+},
+{
+"nome": "Arroz carreteiro",
+"descricao": "Tradicional",
+"imagem": "https://source.unsplash.com/400x300/?rice-meat",
+"ingredientes": ["Arroz","Carne"],
+"modo": "Cozinhe tudo junto."
+},
+{
+"nome": "Feijoada",
+"descricao": "Brasileira",
+"imagem": "https://source.unsplash.com/400x300/?feijoada",
+"ingredientes": ["Feijão","Carnes"],
+"modo": "Cozinhe lentamente."
+},
+{
+"nome": "Risoto",
+"descricao": "Cremoso",
+"imagem": "https://source.unsplash.com/400x300/?risotto",
+"ingredientes": ["Arroz","Queijo"],
+"modo": "Mexa até cremoso."
+},
+{
+"nome": "Batata frita",
+"descricao": "Crocrante",
+"imagem": "https://source.unsplash.com/400x300/?fries",
+"ingredientes": ["Batata","Óleo"],
+"modo": "Frite até dourar."
+},
 {
 "nome": "Torta de limão",
-"descricao": "Azeda e doce na medida",
-"ingredientes": [
-"1 pacote de biscoito triturado",
-"100g de manteiga",
-"1 lata de leite condensado",
-"Suco de 2 limões",
-"1 caixa de creme de leite"
-],
-"modo": "Misture base e leve ao forno. Recheie com creme de limão e leve à geladeira."
+"descricao": "Refrescante",
+"imagem": "https://source.unsplash.com/400x300/?lemon-pie",
+"ingredientes": ["Limão","Leite condensado"],
+"modo": "Monte e gele."
 },
-
 {
-"nome": "Bolo de cenoura com cobertura",
-"descricao": "Clássico com chocolate",
-"ingredientes": [
-"3 cenouras",
-"3 ovos",
-"1 xícara de óleo",
-"2 xícaras de açúcar",
-"2 xícaras de farinha",
-"1 colher de fermento"
-],
-"modo": "Bata tudo, asse e finalize com cobertura de chocolate."
+"nome": "Cheesecake",
+"descricao": "Cremoso",
+"imagem": "https://source.unsplash.com/400x300/?cheesecake",
+"ingredientes": ["Cream cheese","Biscoito"],
+"modo": "Monte e gele."
 },
-
 {
-"nome": "Doce de leite caseiro",
-"descricao": "Cremoso e tradicional",
-"ingredientes": [
-"1 litro de leite",
-"2 xícaras de açúcar"
-],
-"modo": "Cozinhe mexendo até engrossar e ficar dourado."
+"nome": "Doce de leite",
+"descricao": "Clássico",
+"imagem": "https://source.unsplash.com/400x300/?dulce-de-leche",
+"ingredientes": ["Leite","Açúcar"],
+"modo": "Cozinhe até dourar."
 },
-
 {
-"nome": "Beijinho de coco",
-"descricao": "Doce clássico",
-"ingredientes": [
-"1 lata de leite condensado",
-"100g de coco ralado",
-"1 colher de manteiga"
-],
-"modo": "Cozinhe até desgrudar da panela, enrole e passe no coco."
-},
-
-{
-"nome": "Cheesecake simples",
-"descricao": "Cremoso e sofisticado",
-"ingredientes": [
-"200g de biscoito",
-"100g de manteiga",
-"300g de cream cheese",
-"1 lata de leite condensado",
-"Gelatina sem sabor"
-],
-"modo": "Monte base, prepare o creme e leve à geladeira até firmar."
+"nome": "Beijinho",
+"descricao": "Coco",
+"imagem": "https://source.unsplash.com/400x300/?coconut-dessert",
+"ingredientes": ["Leite condensado","Coco"],
+"modo": "Cozinhe e enrole."
 }
 ]

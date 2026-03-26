@@ -1,0 +1,303 @@
+[
+{
+"nome": "Lasanha de carne",
+"descricao": "Clássica e saborosa",
+"ingredientes": [
+"500g de carne moída",
+"1 pacote de massa de lasanha",
+"2 xícaras de molho de tomate",
+"200g de queijo mussarela",
+"1 cebola picada",
+"2 dentes de alho",
+"Sal a gosto"
+],
+"modo": "Refogue alho e cebola, adicione carne. Coloque molho. Monte camadas com massa e queijo. Asse por 30 minutos."
+},
+
+{
+"nome": "Strogonoff de frango",
+"descricao": "Cremoso e fácil",
+"ingredientes": [
+"500g de frango em cubos",
+"1 caixa de creme de leite",
+"2 colheres de ketchup",
+"1 colher de mostarda",
+"1 cebola",
+"Sal a gosto"
+],
+"modo": "Refogue o frango com cebola. Adicione ketchup e mostarda. Finalize com creme de leite."
+},
+
+{
+"nome": "Macarrão ao alho e óleo",
+"descricao": "Simples e sabor intenso",
+"ingredientes": [
+"250g de macarrão",
+"4 dentes de alho",
+"3 colheres de azeite",
+"Sal a gosto"
+],
+"modo": "Cozinhe o macarrão. Doure o alho no azeite e misture tudo."
+},
+
+{
+"nome": "Panqueca de carne",
+"descricao": "Recheio suculento",
+"ingredientes": [
+"1 xícara de leite",
+"1 ovo",
+"1 xícara de farinha",
+"300g de carne moída",
+"Molho de tomate"
+],
+"modo": "Bata massa, faça discos. Recheie com carne e cubra com molho."
+},
+
+{
+"nome": "Arroz carreteiro",
+"descricao": "Prato tradicional",
+"ingredientes": [
+"2 xícaras de arroz",
+"300g de carne seca",
+"1 cebola",
+"Alho",
+"Sal"
+],
+"modo": "Refogue tudo, adicione arroz e água. Cozinhe até secar."
+},
+
+{
+"nome": "Feijoada simples",
+"descricao": "Tradicional brasileira",
+"ingredientes": [
+"500g de feijão preto",
+"300g de carne de porco",
+"1 linguiça",
+"Alho e cebola"
+],
+"modo": "Cozinhe o feijão com carnes até ficar macio e encorpado."
+},
+
+{
+"nome": "Frango assado",
+"descricao": "Crocrante por fora",
+"ingredientes": [
+"1 frango inteiro",
+"Alho",
+"Sal",
+"Páprica",
+"Azeite"
+],
+"modo": "Tempere o frango e asse por 1 hora a 200°C."
+},
+
+{
+"nome": "Batata gratinada",
+"descricao": "Cremosa e deliciosa",
+"ingredientes": [
+"4 batatas",
+"1 caixa de creme de leite",
+"Queijo",
+"Sal"
+],
+"modo": "Monte camadas e leve ao forno até dourar."
+},
+
+{
+"nome": "Risoto de queijo",
+"descricao": "Cremoso e elegante",
+"ingredientes": [
+"1 xícara de arroz arbóreo",
+"Caldo de legumes",
+"Queijo parmesão",
+"Manteiga"
+],
+"modo": "Adicione caldo aos poucos mexendo até ficar cremoso."
+},
+
+{
+"nome": "Carne de panela",
+"descricao": "Bem macia",
+"ingredientes": [
+"500g de carne",
+"Batata",
+"Cenoura",
+"Alho",
+"Sal"
+],
+"modo": "Cozinhe tudo na panela de pressão por 30 minutos."
+},
+
+{
+"nome": "Torta de frango",
+"descricao": "Recheio cremoso",
+"ingredientes": [
+"2 xícaras de farinha",
+"1 xícara de leite",
+"Frango desfiado",
+"Requeijão"
+],
+"modo": "Misture massa, coloque recheio e asse."
+},
+
+{
+"nome": "Escondidinho de carne",
+"descricao": "Com purê de batata",
+"ingredientes": [
+"Carne moída",
+"Batata",
+"Queijo",
+"Manteiga"
+],
+"modo": "Monte camadas de purê e carne, leve ao forno."
+},
+
+{
+"nome": "Yakisoba",
+"descricao": "Estilo oriental",
+"ingredientes": [
+"Macarrão",
+"Frango",
+"Legumes",
+"Molho shoyu"
+],
+"modo": "Refogue tudo e misture com o macarrão."
+},
+
+{
+"nome": "Pizza caseira",
+"descricao": "Massa leve",
+"ingredientes": [
+"Farinha",
+"Fermento",
+"Molho de tomate",
+"Queijo"
+],
+"modo": "Prepare a massa, adicione recheio e asse."
+},
+
+{
+"nome": "Hambúrguer caseiro",
+"descricao": "Artesanal",
+"ingredientes": [
+"Carne moída",
+"Sal",
+"Pimenta",
+"Pão",
+"Queijo"
+],
+"modo": "Modele, grelhe e monte o hambúrguer."
+},
+
+{
+"nome": "Coxinha",
+"descricao": "Salgado famoso",
+"ingredientes": [
+"Frango",
+"Farinha",
+"Caldo",
+"Óleo"
+],
+"modo": "Faça massa, recheie e frite."
+},
+
+{
+"nome": "Quibe assado",
+"descricao": "Leve e saboroso",
+"ingredientes": [
+"Trigo para quibe",
+"Carne moída",
+"Hortelã"
+],
+"modo": "Misture tudo e asse."
+},
+
+{
+"nome": "Moqueca de peixe",
+"descricao": "Prato brasileiro",
+"ingredientes": [
+"Peixe",
+"Leite de coco",
+"Pimentão",
+"Tomate"
+],
+"modo": "Cozinhe tudo lentamente até encorpar."
+},
+
+{
+"nome": "Caldo de mandioca",
+"descricao": "Perfeito pra frio",
+"ingredientes": [
+"Mandioca",
+"Carne",
+"Alho"
+],
+"modo": "Cozinhe e bata até virar creme."
+},
+
+{
+"nome": "Bife acebolado",
+"descricao": "Clássico",
+"ingredientes": [
+"Bife",
+"Cebola",
+"Sal"
+],
+"modo": "Frite o bife e adicione cebola."
+},
+
+{
+"nome": "Purê de batata",
+"descricao": "Cremoso",
+"ingredientes": [
+"Batata",
+"Leite",
+"Manteiga"
+],
+"modo": "Amasse e misture tudo."
+},
+
+{
+"nome": "Frango xadrez",
+"descricao": "Com legumes",
+"ingredientes": [
+"Frango",
+"Pimentão",
+"Molho shoyu"
+],
+"modo": "Refogue e finalize com molho."
+},
+
+{
+"nome": "Espaguete bolonhesa",
+"descricao": "Molho clássico",
+"ingredientes": [
+"Macarrão",
+"Carne moída",
+"Molho de tomate"
+],
+"modo": "Cozinhe macarrão e adicione molho."
+},
+
+{
+"nome": "Sopa de legumes",
+"descricao": "Saudável",
+"ingredientes": [
+"Cenoura",
+"Batata",
+"Abobrinha"
+],
+"modo": "Cozinhe tudo até ficar macio."
+},
+
+{
+"nome": "Omelete recheado",
+"descricao": "Completo",
+"ingredientes": [
+"Ovos",
+"Queijo",
+"Presunto"
+],
+"modo": "Bata ovos, adicione recheio e frite."
+}
+]
